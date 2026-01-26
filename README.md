@@ -35,19 +35,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhyeon315&layout=compact&theme=radical)
 
-## 🚀 My Top Projects
-
-### 1. [AI-Powered Formula Search for STEM](https://github.com/Seokhyeon315/latex-generator-ai)
-- **Tech Stack**: NextJS, TypeScript, Vercel AI SDK, Google Gemini API
-- Developed an application that enhances technical documentation speed by enabling formula and theorem searches in STEM fields with automated LaTeX code generation.
-
-### 2. [Sound to Text Transcriber](https://seokhyeonbyun.com/projects/ai-youtube-transcriber-project)
-- **Tech Stack**: Python, OpenAI API
-- Automated transcription of YouTube audio to text, accelerating the process of obtaining knowledge from video content using Python and OpenAI API.
-
-### 3. [Aerospace Community Platform](https://seokhyeonbyun.com/projects/aerospace-community-project-python-django)
-- **Tech Stack**: Python, Django
-- Built a Q&A platform for the aerospace engineering community, enabling full CRUD functionality to support users in sharing and discussing technical queries.
 
 ---
 
