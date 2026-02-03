@@ -33,11 +33,4 @@
 
 ---
 
-### 📊 My Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhyeon315&layout=compact&theme=radical)
-
-
----
-
 ### 🔗 Check my [Portfolio Website](https://seokhyeonbyun.com)
